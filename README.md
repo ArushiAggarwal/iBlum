@@ -1,2 +1,3 @@
-# iBlum
-An app that incentives users to take action against climate change through coupons whenever they take an action step.
+# iBlum_Application
+
+This is iBlum android and iOS React Native Application.
